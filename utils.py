@@ -1,5 +1,5 @@
 import os
-#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "dialog_key.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "dialog_key.json"
 
 import dialogflow_v2 as dialogflow
 dialogflow_session_client = dialogflow.SessionsClient()
