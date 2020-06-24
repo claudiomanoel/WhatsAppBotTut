@@ -15,7 +15,7 @@ def sms_reply():
     # Fetch the message
     msg = request.form.get('Body')
     phone_no = request.form.get('From')
-    reply = 'retorno:' + msg
+    reply = fetch_reply(msg, phone_no)
 
     # Create reply
     resp = MessagingResponse()
