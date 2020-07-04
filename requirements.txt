@@ -10,7 +10,7 @@ google-api-core==1.8.1
 google-auth==1.6.3
 googleapis-common-protos==1.5.8
 grpcio==1.19.0
-gunicorn==19.9.0
+gunicorn==19.7.1
 idna==2.8
 isort==4.3.21
 itsdangerous==1.1.0
