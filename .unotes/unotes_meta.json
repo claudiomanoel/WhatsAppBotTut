@@ -1,0 +1,47 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "__pycache__": {
+      "name": "__pycache__",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "whatsupbot_env": {
+      "name": "whatsupbot_env",
+      "isOrdered": true,
+      "folders": {
+        "bin": {
+          "name": "bin",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "include": {
+          "name": "include",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "lib": {
+          "name": "lib",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "lib64": {
+          "name": "lib64",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0,
+    "JORNADA": 1
+  }
+}
